@@ -6,3 +6,5 @@ Prints my favorite things one by one.
 ## How to run
 1. Make sure Python is installed
 2. Run the script:
+## Notes
+This project is part of my Python learning journey.
